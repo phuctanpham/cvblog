@@ -11,7 +11,7 @@ const config = {
   title: "Paweł Kosiec, Full-stack Cloud Developer",
   tagline:
     "Software engineer interested in personal growth and tech trends. Cloud-native and open-source enthusiast.",
-  url: "https://kosiec.dev",
+  url: "https://phuctanpham.gihub.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
