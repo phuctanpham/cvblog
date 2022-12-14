@@ -14,7 +14,7 @@ import AboutMeDesc from "./assets/index/_about-me.md";
 const socialLinks: SocialLinkData[] = [
   {
     name: "GitHub",
-    url: "https://github.com/pkosiec",
+    url: "https://github.com/phuctanpham",
     svg: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <title>GitHub</title>
@@ -24,7 +24,7 @@ const socialLinks: SocialLinkData[] = [
   },
   {
     name: "Twitter",
-    url: "https://twitter.com/pkosiec",
+    url: "https://twitter.com/phuctanpham",
     svg: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <title>Twitter</title>
@@ -54,7 +54,7 @@ const socialLinks: SocialLinkData[] = [
   },
   {
     name: "Dev.to",
-    url: "https://dev.to/pkosiec",
+    url: "https://dev.to/phuctanpham",
     svg: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <title>dev.to</title>
@@ -64,7 +64,7 @@ const socialLinks: SocialLinkData[] = [
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/pkosiec",
+    url: "https://www.instagram.com/phuctanpham",
     svg: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <title>Instagram</title>
