@@ -4,7 +4,7 @@
 
 # Paweł Kosiec - Personal Website
 
-This repository contains source code of the Paweł Kosiec's personal website. To see it live, navigate to the [kosiec.dev](https://kosiec.dev) address.
+This repository contains source code of the Paweł Kosiec's personal website. To see it live, navigate to the [kosiec.dev](https://.dev) address.
 
 ## Development
 
