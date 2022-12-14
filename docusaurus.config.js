@@ -8,9 +8,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Paweł Kosiec, Full-stack Cloud Developer",
+  title: "Phuc Pham, Tech Venture Builder",
   tagline:
-    "Software engineer interested in personal growth and tech trends. Cloud-native and open-source enthusiast.",
+    "Customer Success Engineer interested in SaaS and OpenSource. He is also a technical writter",
   url: "https://phuctanpham.gihub.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -18,8 +18,8 @@ const config = {
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config
-  organizationName: "pkosiec",
-  projectName: "website",
+  organizationName: "phuctanpham",
+  projectName: "cvblog",
 
   customFields: {
     newsletter: {
@@ -59,10 +59,10 @@ const config = {
         docs: false,
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/pkosiec/website/tree/main/",
+          editUrl: "https://github.com/phuctanpham/cvblog/tree/main/",
           feedOptions: {
             type: "all",
-            copyright: `Copyright © ${new Date().getFullYear()} Paweł Kosiec`,
+            copyright: `Copyright © ${new Date().getFullYear()} Phuc Pham`,
           },
         },
         theme: {
@@ -97,9 +97,9 @@ const config = {
       },
       navbar: {
         hideOnScroll: false,
-        title: "Paweł Kosiec",
+        title: "Phuc Pham",
         logo: {
-          alt: "Paweł Kosiec Logo",
+          alt: "Phuc Pham Logo",
           src: "img/logo.svg",
           srcDark: "img/logo-white.svg",
         },
@@ -117,15 +117,15 @@ const config = {
             items: [
               {
                 label: "Email me",
-                href: "mailto:pawel@kosiec.dev",
+                href: "mailto:contact+blog@phamtanph.uk",
               },
               {
                 label: "LinkedIn",
-                href: "https://www.linkedin.com/in/pkosiec",
+                href: "https://www.linkedin.com/in/phuctanpham",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/pkosiec",
+                href: "https://twitter.com/phuctanpham",
               },
             ],
           },
@@ -164,7 +164,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2012-${new Date().getFullYear()} Paweł Kosiec.`,
+        copyright: `Copyright © 2012-${new Date().getFullYear()} Phuc Pham.`,
       },
       algolia: {
         appId: "5DLGGOZ8KA",

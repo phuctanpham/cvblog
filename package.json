@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Paweł Kosiec",
-    "url": "https://kosiec.dev",
-    "email": "pawel@kosiec.dev"
+    "name": "Phuc Pham",
+    "url": "https://phamtanph.uk",
+    "email": "contact+blog@phamtanph.uk"
   },
   "scripts": {
     "postinstall": "npm run setup-hooks",

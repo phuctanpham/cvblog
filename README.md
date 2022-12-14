@@ -2,9 +2,9 @@
  <img src="https://raw.githubusercontent.com/pkosiec/website/main/static/img/logo.png" width="75">
 </p>
 
-# Paweł Kosiec - Personal Website
+# Phuc pham - Personal Website
 
-This repository contains source code of the Paweł Kosiec's personal website. To see it live, navigate to the [kosiec.dev](https://.dev) address.
+This repository contains source code of the Phuc Pham's personal website. To see it live, navigate to the [kosiec.dev](https://.dev) address.
 
 ## Development
 
