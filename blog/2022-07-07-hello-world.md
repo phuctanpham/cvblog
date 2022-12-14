@@ -1,7 +1,7 @@
 ---
 slug: hello-world
 title: Hello, world.
-authors: p
+authors: Phuc Pham
 tags: [shorts, hello, world, introduction]
 ---
 
@@ -51,6 +51,6 @@ At some point, I would also like to experiment with the form of the content. Vid
 
 ### Closing words
 
-Please note that my previous blog posts published on different platforms won't be moved. There are just very few of them, though. To read them, see my profiles on [Medium](https://medium.com/@p) and [Dev.to](https://dev.to/p).
+Please note that my previous blog posts published on different platforms won't be moved. There are just very few of them, though. To read them, see my profiles on [Medium](https://medium.com/@phuctanpham) and [Dev.to](https://dev.to/phuctanpham).
 
 If you got to this point, then congratulations. Welcome to my blog 👋

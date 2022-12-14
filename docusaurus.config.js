@@ -23,7 +23,7 @@ const config = {
 
   customFields: {
     newsletter: {
-      action: "http://newsletter.kosiec.dev/add_subscriber",
+      action: "http://newsletter.phamtanph.uk/add_subscriber",
       method: "post",
       emailFieldName: "member[email]",
       firstNameFieldName: "member[first_name]",

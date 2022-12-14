@@ -4,7 +4,7 @@
 
 # Phuc pham - Personal Website
 
-This repository contains source code of the Phuc Pham's personal website. To see it live, navigate to the [kosiec.dev](https://.dev) address.
+This repository contains source code of the Phuc Pham's personal website. To see it live, navigate to the [phamtanph.uk](https://phamtanph.uk) address.
 
 ## Development
 
