@@ -1,7 +1,7 @@
 ---
 slug: hello-world
 title: Hello, world.
-authors: pkosiec
+authors: Phuc
 tags: [shorts, hello, world, introduction]
 ---
 
