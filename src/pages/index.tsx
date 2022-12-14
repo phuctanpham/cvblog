@@ -34,7 +34,7 @@ const socialLinks: SocialLinkData[] = [
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/phutanpham",
+    url: "https://www.linkedin.com/in/phuctanpham",
     svg: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <title>LinkedIn</title>
