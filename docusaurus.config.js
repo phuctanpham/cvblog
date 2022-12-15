@@ -167,9 +167,9 @@ const config = {
         copyright: `Copyright © 2012-${new Date().getFullYear()} Phuc Pham.`,
       },
       algolia: {
-        appId: "5DLGGOZ8KA",
-        apiKey: "67ab853aa6285e51112a649d3cb51928",
-        indexName: "kosiec",
+        appId: "QELP6WDIRO",
+        apiKey: "99c3bf71f457a726bd66645abbfae17f",
+        indexName: "phuc",
       },
       prism: {
         theme: lightCodeTheme,
