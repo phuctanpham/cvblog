@@ -2,9 +2,9 @@
  <img src="https://raw.githubusercontent.com/pkosiec/website/main/static/img/logo.png" width="75">
 </p>
 
-# Phuc pham - Personal Website
+# Phuc - Personal Website
 
-This repository contains source code of the Phuc Pham's personal website. To see it live, navigate to the [phamtanph.uk](https://phamtanph.uk) address.
+This repository contains source code of the Phuc's personal website. To see it live, navigate to the [phamtanph.uk](https://phamtanph.uk) address.
 
 ## Development
 

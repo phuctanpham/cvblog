@@ -8,9 +8,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Phuc Pham, Tech Venture Builder",
+  title: "Phuc, Tech Entrepreneur",
   tagline:
-    "Customer Success Engineer interested in SaaS and OpenSource. He is also a technical writter",
+    "An Engineer interested in Customer Succes, SaaS and OpenSource. I belives that I can open more modern job's system and nano degrees through my enterprise software",
   url: "https://phuctanpham.gihub.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -97,9 +97,9 @@ const config = {
       },
       navbar: {
         hideOnScroll: false,
-        title: "Phuc Pham",
+        title: "Phuc",
         logo: {
-          alt: "Phuc Pham Logo",
+          alt: "Phuc Logo",
           src: "img/logo.svg",
           srcDark: "img/logo-white.svg",
         },
@@ -164,7 +164,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2012-${new Date().getFullYear()} Phuc Pham.`,
+        copyright: `Copyright © 2012-${new Date().getFullYear()} Phuc.`,
       },
       algolia: {
         appId: "QELP6WDIRO",
