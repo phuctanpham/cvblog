@@ -62,7 +62,7 @@ const config = {
           editUrl: "https://github.com/phuctanpham/cvblog/tree/main/",
           feedOptions: {
             type: "all",
-            copyright: `Copyright © ${new Date().getFullYear()} Phuc Pham`,
+            copyright: `Copyright © ${new Date().getFullYear()} Phuc`,
           },
         },
         theme: {
