@@ -9,28 +9,23 @@ import GraphQLInGoDescription from "./assets/talks/_graphql-in-go.md";
 
 const talks: TalkMetadata[] = [
   {
-    title: "Building GraphQL API for Kubernetes resources",
+    title: "Building Progressive Web Application in Production-Grade",
     description: <BuildingGQLAPIForK8sResDescription />,
     events: [
       {
-        name: "Cloud Native Warsaw",
-        location: "Warsaw, Poland",
-        date: new Date(2019, 8, 10),
+        name: "Google I/O Extended Vietnam 2018",
+        location: "Ho Chi Minh, Vietnam",
+        date: new Date(2018, 6, 21),
       },
       {
-        name: "SAP Kubernetes Summit",
-        location: "St. Leon-Rot, Germany",
-        date: new Date(2019, 6, 17),
-      },
-      {
-        name: "San Diego Cloud Native Computing Meetup",
-        location: "San Diego, USA",
-        date: new Date(2019, 10, 26),
+        name: "Google for Startup Vietnam 2022",
+        location: "Ho Chi Minh, Vietnam",
+        date: new Date(2022, 10, 16),
       },
     ],
-    recordingURL: "https://www.youtube.com/watch?v=u_hRoDvKC6Q",
+    recordingURL: "https://youtu.be/Evwmzpf8re4?t=138",
     slidesURL:
-      "https://docs.google.com/presentation/d/1tcm6lH5Z8-El5A-kyHttIm_jJ92WPyPZ5ZQempA6vJQ/edit",
+      "https://docs.google.com/presentation/d/15iCt-XpRm6eYFTtMlIuUA8r38tX4VZ3z-nq7PE7mpNs/edit?usp=sharing",
   },
   {
     title: "Development team collaboration: Git best practices",

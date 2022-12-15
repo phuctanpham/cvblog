@@ -1,8 +1,8 @@
-Imagine that you want to create a UI for your Kubernetes custom resources. You could use Kubernetes API directly, but in most cases, it's better to write your own service which will implement the custom logic and expose a convenient API for the front-end.
+Imagine that how update faster if an only lightweight application run on multi devices without app store. You could not use Progressive Web Application technology totally, but in some of enteprise usecases, it's better to write a Progress Web Application which will combine to proceed data both online and offline faster.
 
-Based on our experience in building such a production-grade solution, you will learn:
+Based on my experience in building such a production-grade solution, you will learn:
 
-- Why we chose GraphQL.
-- How we minimized load on the kube-apiserver.
-- How we went beyond filtering by labels and created more powerful queries for Kubernetes resources.
-- How we secured the GraphQL API.
+- Why we chose Progressive Web Application (PWA).
+- How we ogranize an PWA with Service Workers.
+- How we setup PWA for Blue/Green Develoyment.
+- How we secured the client based DBs.
