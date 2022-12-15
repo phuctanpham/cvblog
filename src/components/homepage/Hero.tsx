@@ -8,9 +8,9 @@ export const Hero: FunctionComponent = () => {
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <h1 className={clsx("hero__title", styles.title)}>
-          Hi. I'm <span className={styles.highlighted}>Phuc Pham</span>,
+          Hi. I'm <span className={styles.highlighted}>Phuc</span>,
           <br />
-          Tech venture Builder.
+          Tech Entrepreneur.
         </h1>
         <p className={clsx("hero__subtitle", styles.subtitle)}>
           Customer Success engineer interested in SaaS and Opensource.
