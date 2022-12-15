@@ -10,7 +10,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Phuc, Tech Entrepreneur",
   tagline:
-    "An Engineer interested in Customer Succes, SaaS and OpenSource. I belives that I can open more modern job's system and nano degrees through my enterprise software",
+    "An Engineer interested in Customer Succes, SaaS and OpenSource. I believed to open more modern jobs and micro degrees by enterprise driven technologies",
   url: "https://phuctanpham.gihub.io",
   baseUrl: "/",
   onBrokenLinks: "throw",

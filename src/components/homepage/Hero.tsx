@@ -13,8 +13,9 @@ export const Hero: FunctionComponent = () => {
           Tech Entrepreneur.
         </h1>
         <p className={clsx("hero__subtitle", styles.subtitle)}>
-          Customer Success engineer interested in SaaS and Opensource.
-          <br /> He is also a technical writter.
+          An engineer interested in Customer Success, SaaS and Opensource.
+          <br /> I believed to open more modern jobs and micro degrees by
+          enterprise driven technologies.
         </p>
       </div>
     </header>
