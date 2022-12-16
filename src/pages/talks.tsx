@@ -27,6 +27,7 @@ const talks: TalkMetadata[] = [
     slidesURL:
       "https://docs.google.com/presentation/d/15iCt-XpRm6eYFTtMlIuUA8r38tX4VZ3z-nq7PE7mpNs/edit?usp=sharing",
   },
+  /* Starting to block other talks by pkosiec
   {
     title: "Development team collaboration: Git best practices",
     description: <DevTeamCollaborationGitBestPracticesDescription />,
@@ -55,6 +56,7 @@ const talks: TalkMetadata[] = [
       "https://docs.google.com/presentation/d/1v6H21vHMd_rAZ9qjXcags2dMR2OYR-kQkarNVJZxbOs/edit",
     repoURL: "https://github.com/pkosiec/golang-graphql-samples",
   },
+  Ending to block other talks by pkosiec */
 ];
 
 const title = "Talks";
