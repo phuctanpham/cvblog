@@ -6,11 +6,11 @@ import { Project, ProjectData } from "../components/projects/Project";
 const assetsDir = "./assets/projects";
 const projects: ProjectData[] = [
   {
-    title: "Capact",
-    description: "A unified way to manage applications and infrastructure.",
-    url: "https://capact.io",
-    image: require(`${assetsDir}/capact.png`),
-    role: "Maintainer",
+    title: "Gcalls",
+    description: "An integrated and programbale contact center.",
+    url: "https://gcalls.co",
+    image: require(`${assetsDir}/gcalls.png`),
+    role: "CTO",
   },
   {
     title: "Mongo Seeding",
