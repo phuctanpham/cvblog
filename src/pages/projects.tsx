@@ -21,11 +21,11 @@ const projects: ProjectData[] = [
     role: "Solution Architect",
   },
   {
-    title: "Terminer",
-    description: "Upgrade your terminal experience with a single command.",
-    url: "https://github.com/pkosiec/terminer",
-    image: require(`${assetsDir}/terminer.png`),
-    role: "Author",
+    title: "JS Viet",
+    description: "A vietnamese opensource group for Javascript Lover.",
+    url: "https://www.facebook.com/groups/vnnodejs",
+    image: require(`${assetsDir}/jsviet.png`),
+    role: "Admin",
   },
   {
     title: "Startup Insider",
