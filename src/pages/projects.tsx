@@ -28,11 +28,11 @@ const projects: ProjectData[] = [
     role: "Author",
   },
   {
-    title: "Gophers Silesia",
-    description: "Go & Cloud Native Meetup organized in Katowice, Poland",
-    url: "https://www.meetup.com/GophersSilesia",
-    image: require(`${assetsDir}/gophers-silesia.png`),
-    role: "Organizer",
+    title: "Startup Insider",
+    description: "Startup Insider organized in Ho Chi Minh, Vietnam",
+    url: "https://docs.google.com/presentation/d/e/2PACX-1vQZCb48z4EyCX4Zcgw8KWzaWalY1orWnYH6NYNBTgHWOq0fvw-X-Dxtv2S0yAg6Eg/pub?start=true&loop=true&delayms=3000",
+    image: require(`${assetsDir}/startupinsider.png`),
+    role: "Creator",
   },
 ];
 
