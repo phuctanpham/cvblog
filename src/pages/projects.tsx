@@ -13,11 +13,12 @@ const projects: ProjectData[] = [
     role: "CTO",
   },
   {
-    title: "Mongo Seeding",
-    description: "Ultimate solution for populating MongoDB database.",
-    url: "https://github.com/pkosiec/mongo-seeding",
-    image: require(`${assetsDir}/mongo-seeding.png`),
-    role: "Author",
+    title: "Capbull",
+    description:
+      "Banking driven Cashflow Management for multi-level finanical team.",
+    url: "https://marvelapp.com/prototype/792b0ib/screen/36814695",
+    image: require(`${assetsDir}/capbull.png`),
+    role: "Solution Architect",
   },
   {
     title: "Terminer",
