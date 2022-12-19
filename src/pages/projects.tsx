@@ -6,7 +6,7 @@ import { Project, ProjectData } from "../components/projects/Project";
 const assetsDir = "./assets/projects";
 const projects: ProjectData[] = [
   {
-    title: "Gcalls",
+    title: "Gcalls Dev",
     description: "An integrated and programbale contact center.",
     url: "https://gcalls.co",
     image: require(`${assetsDir}/gcalls.png`),
