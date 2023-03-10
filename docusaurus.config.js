@@ -62,7 +62,7 @@ const config = {
           editUrl: "https://github.com/phuctanpham/cvblog/tree/main/",
           feedOptions: {
             type: "all",
-            copyright: `Copyright © ${new Date().getFullYear()} Phuc`,
+            copyright: `Copyright © ${new Date().getFullYear()} Phuk`,
           },
         },
         theme: {
@@ -97,9 +97,9 @@ const config = {
       },
       navbar: {
         hideOnScroll: false,
-        title: "Phuc",
+        title: "Phuk",
         logo: {
-          alt: "Phuc Logo",
+          alt: "Phuk Logo",
           src: "img/logo.svg",
           srcDark: "img/logo-white.svg",
         },
@@ -164,12 +164,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2012-${new Date().getFullYear()} Phuc.`,
+        copyright: `Copyright © 2012-${new Date().getFullYear()} Phuk.`,
       },
       algolia: {
         appId: "QELP6WDIRO",
         apiKey: "99c3bf71f457a726bd66645abbfae17f",
-        indexName: "phuc",
+        indexName: "phuk",
       },
       prism: {
         theme: lightCodeTheme,
