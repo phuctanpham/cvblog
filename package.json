@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Phuc",
+    "name": "Phuk",
     "url": "https://phamtanph.uk",
-    "email": "contact+blog@phamtanph.uk"
+    "email": "contact@phamtanph.uk"
   },
   "scripts": {
     "postinstall": "npm run setup-hooks",
