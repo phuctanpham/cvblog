@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Phuc, Tech Entrepreneur",
+  title: "Phuk, Marketing Technologist",
   tagline:
     "An Engineer interested in Customer Succes, SaaS and OpenSource. I believed to open more modern jobs and micro degrees by enterprise driven technologies",
   url: "https://phuctanpham.gihub.io",
