@@ -1,7 +1,7 @@
-I&nbsp;write back-end applications in **Go** and modern front-ends using **TypeScript** (**React.js**). I design and implement **GraphQL**, **gRPC** and **REST** APIs.
+I&nbsp;am Javascript fanita for both back-end architecture and modern front-end application. I have a strong know-how to be both an engineering manager and a markeing technologist. 
 
-I&nbsp;work in a cloud-native environment in the "you build it, you run it" model. Apart from building microservices, I use and extend **Kubernetes**. I am both [Certified Kubernetes Application Developer](https://www.youracclaim.com/badges/4ef650a8-2c5d-48df-bdc7-d7bafdd9e4ec) and [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/32059797-c35c-4c49-bcc3-d27268a530df).
+I&nbsp;work in a lean startup environment in the "customer centric" concept. Apart from building the tech startup culture, I use and extend **Agile**. I am both [Fundraiser](https://www.sggpnews.org.vn/startup-gcalls-with-1-million-post69280.html) and [Dreamer]([https://www.youracclaim.com/badges/32059797-c35c-4c49-bcc3-d27268a530df](https://tuoitrenews.vn/news/business/20160724/vietnamese-entrepreneurs-talk-culture-of-failure-to-local-startup-ecosystem/9844.html)).
 
-In 2018, I&nbsp;have completed a&nbsp;master's in Computer Science at Silesian University of Technology.
+In 2023, I&nbsp;have started to be a&nbsp; the broker of M&A's deals in ICT Industry .
 
-I'm open source and cloud-native enthusiast. That's why I'm a&nbsp;co-organizer of the&nbsp;[Gophers Silesia](https://www.meetup.com/GophersSilesia) meetup, which is a&nbsp;local community interested in Go & cloud-native topics.
+I'm open source and cloud-native enthusiast. That's why I'm a&nbsp;founder of the&nbsp;[jsViet](www.facebook.com/groups/jsviet.org/) community, which is a&nbsp;local community interested in Javascript & Javascript driven opensource topics.
