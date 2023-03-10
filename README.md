@@ -4,7 +4,7 @@
 
 # Phuk - Personal Website
 
-This repository contains source code of the Phuc's personal website. To see it live, navigate to the [phamtanph.uk](https://phamtanph.uk) address.
+This repository contains source code of the Phu's personal website. To see it live, navigate to the [phamtanph.uk](https://phamtanph.uk) address.
 
 ## Development
 
