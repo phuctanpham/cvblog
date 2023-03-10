@@ -1,7 +1,7 @@
 ---
 slug: hello-world
 title: Hello, world.
-authors: Phu
+authors: Phuk
 tags: [shorts, hello, world, introduction]
 ---
 
