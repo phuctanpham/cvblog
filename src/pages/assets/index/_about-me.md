@@ -4,4 +4,4 @@ I&nbsp;work in a lean startup environment in the "customer centric" concept. Apa
 
 In 2023, I&nbsp;have started to be&nbsp; the consultant of M&A's deals in ICT Industry.
 
-I'm open source and javascript enthusiast. That's why I'm a&nbsp;founder of the&nbsp;[jsViet](https://www.facebook.com/groups/jsviet.org/) community, which is a&nbsp;local community interested in Javascript' topics.
+I'm open source and javascript enthusiast. That's why I'm a&nbsp;founder of the&nbsp;[jsViet](https://www.facebook.com/groups/jsviet.org) community, which is a&nbsp;local community interested in Javascript' topics.
