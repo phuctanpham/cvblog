@@ -10,7 +10,7 @@ tags: [shorts, Agile, Habit, Productivity]
 
 <center>
 
-![Getting resultư at glance](./assets/getting-results-at-glance.png) <br/><small>source: <a href="https://tenor.com" target="_blank">gettingresults.com.com</a></small>
+![Getting resultư at glance](./assets/getting-results-at-glance.png) <br/><small>source: <a href="https://tenor.com" target="_blank">gettingresults.com</a></small>
 
 </center>
 
