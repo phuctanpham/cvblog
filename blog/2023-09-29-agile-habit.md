@@ -8,6 +8,12 @@ tags: [shorts, Agile, Habit, Productivity]
 
 <!-- truncate -->
 
+<center>
+
+![Getting resultư at glance](./assets/getting-results-at-glance.png) <br/><small>source: <a href="https://tenor.com" target="_blank">gettingresults.com.com</a></small>
+
+</center>
+
 ### Monday Vision:
 Every week, on Monday, you create a plan for the week. For instance, you have a goal to study for 20 hours this week to prepare for an important exam. You specify the subjects you'll study and the number of hours you'll allocate to each.
 
