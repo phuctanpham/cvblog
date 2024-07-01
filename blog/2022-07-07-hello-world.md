@@ -1,56 +1,86 @@
 ---
-slug: hello-world
-title: Hello, world.
+slug: dirtly-ux
+title: Dirty UX.
 authors: Phuk
 tags: [shorts, hello, world, introduction]
 ---
 
-When it comes to social media, I'm definitely more a reader than a writer type of person. Recently I've felt a need to start creating content. Or, more like get back into doing it.
+**Dirty UX vs Customer Success**
 
-The last time I had a blog was more than 15 years ago. As a teenager, I used to run the "My IT News" WordPress site with, as you may expect, news around IT - especially the new consumer electronics products. While it didn't have much attention (as far as I remember, around ~5k unique visitors per month), I enjoyed doing it. But I had plenty of time and energy back then. Today I'm struggling with both, so... I'm starting a new blog! That makes sense, right?
+Let's face it, we've all been there. Downloading a shiny new app, eager to experience the magic, only to find ourselves tangled in a web of frustration. This, my friends, is the dark side of UX – the land of hidden cancel buttons and confusing interfaces. But here's the kicker: these tricks that boost marketing metrics can leave customer success teams scrambling to pick up the pieces.
 
-<!-- truncate -->
+Imagine this: You, a seasoned customer success engineer, decide to explore the latest consumer apps. But wait, isn't customer success engineer's expertise in enterprise UX? Why not? Your title has a keyword named "customer success". Sure, but staying sharp means understanding the B2C landscape. So, you download a trendy food and bike delivery app. Simple, right? Wrong.
 
-### Why yet another blog
+What happens if ? The app throws you into a food ordering frenzy when you just want a quick bike ride. You frantically search for the "cancel" button, but it vanishes like a magician's rabbit. Before you know it, you're stuck with an unwanted meal and a delivery guy's heartfelt plea not to cancel (because, hey, KPIs!). But those KPIs is belong to whom ? the poor shipper or your mistakes ? or does the flow lock your way to turn back ? or is the order confirmation a lack of characteristic? or is the profit / revenue important more than customer experience?  
+<br/>Above funny example is based on a real accident when I taught some elders to learn how to order food. Eventually I am a tech savvy person, I can adapt technology. But I feel confused when trying those applications.  
+<br/>I don't want to name that company here. However I place here some other case study's discussions about Bad UX.  
+<br/>\- For e-commerce and Digital consumers. Popular dark techniques hidden cost, do display cancel  
+\- For SaaS and Enterprise users: auto renewal without (or unclear term) permission  
+<br/><https://www.reddit.com/r/UXDesign/comments/12jk8lm/does_amazon_have_bad_ux_design/>  
+<br/><https://community.adobe.com/t5/account-payment-plan-discussions/auto-renewal-without-permission/td-p/14551904>
 
-Nowadays, everyone has their own blog. Do I really need to become another wannabe influencer?
+This, my friends, is dirty UX at its finest. Designed to inflate sales figures, it leaves users feeling trapped and the customer success team drowning in support tickets.
 
-No. What I want to achieve is:
+**The Developed World vs. The Rest: A UX Tale of Two Worlds**
 
-- structure my knowledge and record what I've learned recently,
-- try out new ways to increase productivity, stay motivated and avoid burnout,
-- improve my English (as a non-native English speaker),
-- develop self-discipline, reduce procrastination, and, as a result, save time to do the things mentioned above.
+The problem? Most customer success tactics hail from developed nations where self-service is king. But in developing countries like Vietnam, the comfort level with self-service is, well, developing. Users here expect a helping hand, not a digital maze.
 
-So, as you can see, it's mostly for me, but I hope you'll benefit from this as well.
+In these regions, a hidden cancel button isn't just an annoyance – it's a recipe for disaster. The customer hotline, the supposed safety net, gets overloaded. Users who can't navigate the app's labyrinth have nowhere else to turn.
 
-### What to expect
+**The Fallout: Frustration, Fury, and Fake Orders**
 
-Well, definitely shorter, more concise blog posts, like this one.
+So, what happens when a hungry (and frustrated) user can't cancel their surprise food order? Here's a glimpse into the potential chaos:
 
-<center>
+- **Moral Panic:** You fear being labeled a "fake orderer," the villain in the eyes of the internet's ever-watchful jury.
+- **Parental Perplexity:** You witness your parents, delightfully tech-averse, completely lost in the app's confusing interface.
+- **Financial Fallout:** You face a choice – swallow your pride and pay, or risk online infamy.
 
-![Ain't nobody got time for that](./assets/aint-nobody-got-time-for-that.gif) <br/><small>source: <a href="https://tenor.com" target="_blank">tenor.com</a></small>
+This, my friends, is not the customer experience anyone signs up for.
 
-</center>
+**The Real Villain: Data-Driven Delusion**
 
-While I have a few ideas for new blog posts in mind, I don't want to limit myself to just technical topics. Instead, I will probably touch on different areas of my interest, such as:
+The culprit? It's not the overworked delivery guy or the social media outrage machine. The true villain is the blind reliance on data without understanding its cultural context. Focusing solely on metrics like churn rate can lead to UX decisions that prioritize short-term gains over long-term customer satisfaction.  
+<br/>**The High Price of dirty UX**
 
-- full-stack technical topics related to the technologies I use (Go, Kubernetes, React.js, JavaScript, TypeScript, GraphQL, gRPC...),
-- personal projects announcements,
-- new talks announcements
-- open source,
-- cool projects and apps I stumbled upon,
-- productivity,
-- personal growth (i.e. soft skills),
-- finance.
+Inadequate UX design isn't just frustrating for users, it's a financial burden for businesses. Here's how:
 
-Yup, that's a lot - but we'll see how it goes.
+- **Lost Revenue:** A clunky website can lead to high bounce rates, missed conversions, and ultimately, lost sales. Studies show even a 1% improvement in UX design can significantly boost conversion rates.
+- **Customer Acquisition and Retention:** Acquiring new customers is expensive, but poor UX can drive them away. It's also harder and costlier to retain unhappy customers than to keep existing ones happy.
+- **Brand Damage:** A bad user experience reflects poorly on your brand. Customers who have trouble using your product are less likely to trust or recommend you. Rebuilding a damaged reputation requires significant marketing efforts.
+- **Support Costs:** Confusing interfaces lead to more customer support requests, increasing costs. Fixing problems after launch is far more expensive than getting it right during design.
+- **Employee Impact:** Employees struggle with poorly designed internal tools, wasting time and becoming frustrated. Training them on complex interfaces adds another cost.
+- **Legal Risks:** In severe cases, bad UX can lead to lawsuits or fines for accessibility issues, data breaches, or user safety concerns.
 
-At some point, I would also like to experiment with the form of the content. Videos, podcasts? Maybe one day...
+**Conclusion:**
 
-### Closing words
+Dirty UX is a false economy. Investing in user-centered design saves money in the long run by:
 
-Please note that my previous blog posts published on different platforms won't be moved. There are just very few of them, though. To read them, see my profiles on [Medium](https://medium.com/@phuctanpham) and [Dev.to](https://dev.to/phuctanpham).
+- Increasing sales and conversions
+- Reducing customer churn
+- Strengthening your brand reputation
+- Minimizing support costs
+- Improving employee productivity
+- Mitigating legal risks
 
-If you got to this point, then congratulations. Welcome to my blog 👋
+**User expectations are higher than ever.** With so much competition, getting UX right is essential for any business that wants to thrive.
+
+**Let's become a customer success here!**
+
+Don't be part of the dark side!
+
+Here at Gcalls, I believe in UX that delights, not deceives. That's why I am offering the Product Invention Module inside our exclusive **Customer Success Engineering Management Course**.
+
+In this Module, I teach my engineering team the art of crafting user experiences that are both effective and ethical. You'll master the skills to:
+
+- Design interfaces that are intuitive and user-friendly across cultures.
+- Advocate for customer needs within the product development cycle.
+- Become a champion for ethical UX practices for conversational AI products such as: chatbot, voice bot and SaaS.
+
+So, ditch the dirty UX tactics and join the revolution!
+
+**P.S.** Want to learn more about customer success metrics by vietnamese? Check out these handy resources:
+
+- 11 metrics for Customer Success: <https://gcalls.co/11-chi-so-danh-gia-quan-trong-doi-voi-bo-phan-cham-soc-khach-hang/>
+- The 1st Customer Success Course in Vietnam: [](https://vietcustomersuccess.com/about/)<https://csmasterhub.com/>
+
+Together, let's build a world where users and customer success teams can thrive, not just survive.
